@@ -12,8 +12,9 @@ Ce projet a été développé dans le cadre de mon Master en Ingénierie des Sys
 ## 🚀 Testez l'API en direct
 L'API est déployée sur le Cloud et accessible publiquement via Swagger UI :
 👉 **[Cliquez ici pour tester l'API](https://telecom-qos-api-4d914.containers.snapdeploy.app/docs)**
+*(⚠️ Bdel had l'lien b l'lien dyalek dyal SnapDeploy ila kan mokhtalef)*
 
-## ✨ Features (Fonctionnalités)
+## ✨ Fonctionnalités
 - **Machine Learning :** Modèle Random Forest entraîné pour classifier la QoS (Normal vs Dégradé) à partir de KPIs télécoms.
 - **Backend API :** FastAPI pour une exposition rapide des prédictions en temps réel via des endpoints REST.
 - **Conteneurisation :** Docker (Image Python 3.11-slim) garantissant la portabilité de l'application.
